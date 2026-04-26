@@ -1,5 +1,6 @@
 ```
 dataview TABLE date, status 
-FROM #Hardware 
+FROM #hardware
 SORT date DESC 
 ```
+
