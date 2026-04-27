@@ -165,16 +165,6 @@
               "icon": "lucide-list",
               "title": "無題のファイルのアウトライン"
             }
-          },
-          {
-            "id": "14219d9da2597395",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 3

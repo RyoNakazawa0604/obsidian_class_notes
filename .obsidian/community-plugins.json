@@ -1,9 +1,8 @@
 [
-  "templater-obsidian",
   "obsidian-auto-link-title",
   "dataview",
-  "tag-wrangler",
-  "obsidian-style-settings",
+  "obsidian-git",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-style-settings",
+  "tag-wrangler"
 ]
