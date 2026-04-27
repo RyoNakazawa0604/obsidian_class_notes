@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2026-04-27
 course:
 topic:
 status:
@@ -7,4 +7,5 @@ confidence:
 tags:
 aliases:
 ---
+
 
