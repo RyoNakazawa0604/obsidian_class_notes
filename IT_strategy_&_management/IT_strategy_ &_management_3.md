@@ -30,3 +30,4 @@ aliases:
 
 #### 責任分担マトリックス
 ：作業の責任分担を表現したマトリクス表
+[Google Image Result](https://www.google.com/imgres?q=%E8%B2%AC%E4%BB%BB%E5%88%86%E6%8B%85%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9&imgurl=https%3A%2F%2Fwww.fdc-inc.co.jp%2Ffapi%2Fwp-content%2Fuploads%2Fsites%2F8%2F2023%2F04%2FRACI%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%2588.jpg&imgrefurl=https%3A%2F%2Fwww.fdc-inc.co.jp%2Ffapi%2Fwhat_is_ram%2F&docid=b0ll37n9fD_OVM&tbnid=TqfreuYxaK0qQM&vet=12ahUKEwisqeukgI2UAxX1na8BHcEhKZAQnPAOegQIFhAB..i&w=584&h=232&hcb=2&ved=2ahUKEwisqeukgI2UAxX1na8BHcEhKZAQnPAOegQIFhAB)
