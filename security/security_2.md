@@ -1,7 +1,7 @@
 ---
 date: 2026-04-23
 course: security
-topic:
+topic: インターネット関連の法規
 status: 復習
 confidence: "5"
 tags:
