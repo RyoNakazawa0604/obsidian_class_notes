@@ -183,13 +183,15 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "markdown-importer:Markdownインポーターを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ea93f6c55cbbadba",
   "lastOpenFiles": [
-    "IT_strategy_&_management/IT_strategy_ &_management_2.md",
+    "templates/template1.md",
     "IT_strategy_&_management/IT_strategy_&_management_1.md",
+    "IT_strategy_&_management/IT_strategy_ &_management_2.md",
     "IT_strategy_&_management/IT_strategy_ &_management_3.md",
     "hardware/hardware_3.md",
     "hardware/hardware_2.md",
@@ -200,7 +202,6 @@
     "無題のフォルダ",
     "レジスタ.md",
     "無題のファイル.base",
-    "templates/template1.md",
     "a.md",
     "IT_strategy_&_management/desktop.ini",
     "無題のフォルダ 1/desktop.ini",
