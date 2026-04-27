@@ -1,9 +1,0 @@
-views:
-  - type: table
-    name: 表
-    groupBy:
-      property: confidence
-      direction: ASC
-    sort:
-      - property: file.name
-        direction: ASC
