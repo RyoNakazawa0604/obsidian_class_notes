@@ -7,7 +7,7 @@ confidence: "3"
 tags:
   - hardware
   - 基本情報技術者試験
-  - wed_test_3
+  - qualification_test_3
 aliases:
   - MIPS
   - FLOPS
