@@ -85,11 +85,13 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -211,8 +213,8 @@
   "active": "6c3df6bbead261bf",
   "lastOpenFiles": [
     "hardware/hardware_3.md",
-    "IT_strategy_&_management/IT_strategy_ &_management_2.md",
     "IT_strategy_&_management/IT_strategy_ &_management_3.md",
+    "IT_strategy_&_management/IT_strategy_ &_management_2.md",
     "templates/template1.md",
     "a.md",
     "IT_strategy_&_management/desktop.ini",
