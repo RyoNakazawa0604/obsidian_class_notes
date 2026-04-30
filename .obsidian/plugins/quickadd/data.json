@@ -4,10 +4,10 @@
       "id": "42b435b2-8965-4759-8f29-a22711d5f2ca",
       "name": "insert_termcard",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -16,8 +16,8 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "- [ ] #termcard 用語: {{VALUE:term}} | 一言定義: {{VALUE:def}} | 例: {{VALUE:example}} | 重要: 試験/実務 | 転記先: [[ ]]"
       },
       "insertAfter": {
         "enabled": false,
