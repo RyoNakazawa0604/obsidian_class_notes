@@ -1,0 +1,23 @@
+---
+date: <% tp.date.now("YYYY-MM-DD") %>
+course: # 例: security
+term: # 用語名
+category: # security / network / database / algorithm / law / management
+importance: "3" # "1" - "5"
+exam_scope: # 例: 基本情報午前 / 中間試験
+related_lecture: # 例: [[security_2]]
+tags:
+  - glossary
+aliases:
+---
+
+## 一言定義
+
+## 詳しい説明
+
+## 具体例
+
+## よく間違えるポイント
+
+## 関連語
+- 
