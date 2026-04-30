@@ -1,7 +1,7 @@
 ---
 date: 2026-04-30
 course: security
-topic:
+topic: インターネットの仕組み
 status: 勉強中
 confidence:
 tags:
@@ -10,5 +10,6 @@ tags:
   - qualification_test_3
 aliases:
 ---
-
-
+### インターネットの仕組み
+##### IPアドレス
+インターネット上の住所 ex.198.55.123.100
