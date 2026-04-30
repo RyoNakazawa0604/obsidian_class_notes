@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -210,6 +209,12 @@
   },
   "active": "ea93f6c55cbbadba",
   "lastOpenFiles": [
+    "lectures/system_design/要件定義.md",
+    "lectures/system_design/共通フレーム.md",
+    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
+    "lectures/system_design/開発プロセス.md",
+    "lectures/security/インターネット関連の法規.md",
+    "lectures/security/インターネットの仕組み.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
@@ -217,13 +222,7 @@
     "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/五大装置.md",
-    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
-    "lectures/system_design/要件定義.md",
-    "lectures/system_design/共通フレーム.md",
-    "lectures/system_design/開発プロセス.md",
     "operation/templates/授業1回実運用テンプレ_90分.md",
-    "lectures/security/インターネットの仕組み.md",
-    "lectures/security/インターネット関連の法規.md",
     "lectures/system_design/system_design_3_remake.md",
     "lectures/system_design/system_design_3.md",
     "lectures/IT_strategy_&_management/IT_strategy_&_management_3.md",
