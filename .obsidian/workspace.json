@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system_design/system_design_3.md",
+                "file": "templates/template1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "system_design_3"
+              "title": "template1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:qualification_test_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,22 +197,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea93f6c55cbbadba",
+  "active": "28a9c8cdc4b00a33",
   "lastOpenFiles": [
-    "security/security_3.md",
+    "運用ルール.md",
+    "system_design/system_design_1.md",
     "system_design/system_design_3.md",
+    "system_design/system_design_2.md",
+    "security/security_3.md",
     "security/security_2.md",
-    "2026-04-27.md",
-    "templates/template1.md",
-    "IT_strategy_&_management/IT_strategy_ &_management_1.md",
-    "hardware/hardware_1.md",
+    "IT_strategy_&_management/IT_strategy_&_management_2.md",
+    "IT_strategy_&_management/IT_strategy_&_management_1.md",
     "hardware/hardware_3.md",
     "hardware/hardware_2.md",
+    "hardware/hardware_1.md",
+    "IT_strategy_&_management/IT_strategy_&_management_3.md",
+    "2026-04-27.md",
+    "templates/template1.md",
     "desktop.ini",
-    "IT_strategy_&_management/IT_strategy_ &_management_3.md",
-    "IT_strategy_&_management/IT_strategy_ &_management_2.md",
-    "system_design/system_design_1.md",
-    "system_design/system_design_2.md",
     "PMBOK.md",
     "レジスタ.md",
     "アドレス.md",

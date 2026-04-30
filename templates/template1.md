@@ -1,10 +1,13 @@
 ---
-date: 2026-04-30
-course:
+date: <% tp.date.now("YYYY-MM-DD") %>
+course: <% tp.file.folder().split("/").pop() %>
 topic:
-status:
-confidence:
+status: 未着手
+confidence: "1"
 tags:
+  - 
+  - 基本情報技術者試験
+  - qualification_test_
 aliases:
 ---
 

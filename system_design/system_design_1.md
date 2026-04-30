@@ -1,7 +1,7 @@
 ---
 date: 2026-04-16
 course: system_design
-topic:
+topic: 共通フレーム
 status: 復習
 confidence: "5"
 tags:
