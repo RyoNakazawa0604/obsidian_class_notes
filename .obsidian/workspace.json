@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "IT_strategy_&_management/IT_strategy_ &_management_1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#基本情報技術者試験",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +197,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90fa80dbfeb318c8",
+  "active": "ea93f6c55cbbadba",
   "lastOpenFiles": [
+    "security/security_2.md",
+    "IT_strategy_&_management/IT_strategy_ &_management_1.md",
     "2026-04-27.md",
     "hardware/hardware_1.md",
     "hardware/hardware_3.md",
     "hardware/hardware_2.md",
-    "IT_strategy_&_management/IT_strategy_ &_management_1.md",
-    "security/security_2.md",
     "templates/template1.md",
     "desktop.ini",
     "IT_strategy_&_management/IT_strategy_ &_management_3.md",
