@@ -3,7 +3,7 @@ date: 2026-04-30
 course: security
 topic: インターネットの仕組み
 status: 勉強中
-confidence:
+confidence: "4"
 tags:
   - security
   - 基本情報技術者試験
