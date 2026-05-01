@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/プロセッサの構成要素.md",
+                "file": "lectures/IT_strategy_&_management/タイムマネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロセッサの構成要素"
+              "title": "タイムマネジメント"
             }
           }
         ],
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,38 +213,37 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
-    "terms/system_design/アジャイル開発.md",
-    "terms/system_design/スクラム.md",
-    "terms/IT_strategy_&_management/品質マネジメント.md",
-    "スプリントレトロスペクティブ.md",
-    "terms/system_design/ウォーターフォールモデル.md",
-    "terms/system_design/プロトタイピングモデル.md",
-    "terms/system_design/スパイラルモデル.md",
-    "terms/system_design",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
-    "lectures/security/インターネットの仕組み.md",
-    "terms/IT_strategy_&_management",
-    "lectures/hardware/プロセッサの構成要素.md",
-    "operation/復習ダッシュボード.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
+    "lectures/hardware/プロセッサの設計・高速化.md",
+    "terms/system_design/ウォーターフォールモデル.md",
+    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
+    "lectures/security/インターネットの仕組み.md",
+    "lectures/security/インターネット関連の法規.md",
+    "desktop.ini",
+    "terms/IT_strategy_&_management/品質マネジメント.md",
     "operation/運用ルール.md",
+    "operation/プロパティ入力候補一覧.md",
+    "lectures/system_design/要件定義.md",
+    "lectures/system_design/共通フレーム.md",
+    "lectures/hardware/プロセッサの構成要素.md",
+    "terms/system_design/アジャイル開発.md",
+    "terms/system_design/スクラム.md",
+    "スプリントレトロスペクティブ.md",
+    "terms/system_design/プロトタイピングモデル.md",
+    "terms/system_design/スパイラルモデル.md",
+    "terms/system_design",
+    "terms/IT_strategy_&_management",
+    "operation/復習ダッシュボード.md",
     "templates/授業1回実運用テンプレ_90分.md",
     "lectures/system_design/開発プロセス.md",
     "templates/template1.md",
-    "lectures/security/インターネット関連の法規.md",
     "templates/term_template.md",
-    "lectures/system_design/要件定義.md",
-    "lectures/system_design/共通フレーム.md",
-    "lectures/hardware/プロセッサの設計・高速化.md",
-    "lectures/hardware/五大装置.md",
-    "lectures/system_design/system_design_3_remake.md",
     "operation",
     "terms",
     "lectures",
-    "desktop.ini",
     "無題のファイル.base",
     "IT_strategy_&_management/desktop.ini",
     "無題のフォルダ 1/desktop.ini",
