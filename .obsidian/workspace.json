@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
+                "file": "lectures/IT_strategy_&_management/タイムマネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "開発プロセス（開発モデルとアジャイル）"
+              "title": "タイムマネジメント"
             }
           }
         ],
@@ -213,14 +213,15 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/IT_strategy_&_management/人的資源マネジメント.md",
+    "terms/IT_strategy_&_management/品質マネジメント.md",
     "lectures/system_design/要件定義.md",
-    "lectures/system_design/共通フレーム.md",
-    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/system_design/開発プロセス.md",
+    "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
+    "lectures/system_design/共通フレーム.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
-    "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/五大装置.md",
@@ -228,7 +229,6 @@
     "lectures/security/インターネット関連の法規.md",
     "terms/system_design/ウォーターフォールモデル.md",
     "desktop.ini",
-    "terms/IT_strategy_&_management/品質マネジメント.md",
     "operation/運用ルール.md",
     "operation/プロパティ入力候補一覧.md",
     "terms/system_design/アジャイル開発.md",
