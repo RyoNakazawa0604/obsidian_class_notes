@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/品質マネジメント.md",
+                "file": "lectures/IT_strategy_&_management/リスクマネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "品質マネジメント"
+              "title": "リスクマネジメント"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
+    "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "lectures/hardware/命令・アドレッシング.md",
     "terms/system_design/ウォーターフォールモデル.md",
@@ -228,7 +229,6 @@
     "terms/IT_strategy_&_management",
     "operation/復習ダッシュボード.md",
     "templates/授業1回実運用テンプレ_90分.md",
-    "templates/template1.md",
     "operation",
     "terms",
     "lectures",
