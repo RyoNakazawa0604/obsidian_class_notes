@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/プロセッサの構成要素.md",
+                "file": "lectures/IT_strategy_&_management/人的資源マネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロセッサの構成要素"
+              "title": "人的資源マネジメント"
             }
           },
           {
@@ -213,14 +213,16 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/IT_strategy_&_management/品質マネジメント.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/hardware/プロセッサの構成要素.md",
+    "lectures/hardware/五大装置.md",
     "lectures/hardware/命令・アドレッシング.md",
     "operation/運用ルール.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/system_design/開発プロセス.md",
     "lectures/security/インターネット関連の法規.md",
-    "lectures/hardware/五大装置.md",
-    "lectures/hardware/プロセッサの構成要素.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "terms/system_design/アジャイル開発.md",
@@ -228,10 +230,8 @@
     "terms/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "templates/desktop.ini",
-    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "terms/IT_strategy_&_management/desktop.ini",
     "desktop.ini",
-    "lectures/IT_strategy_&_management/品質マネジメント.md",
     "terms/system_design/ウォーターフォールモデル.md",
     "terms/system_design/スパイラルモデル.md",
     "terms/system_design/プロトタイピングモデル.md",
