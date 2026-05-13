@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operation/運用ルール.md",
+                "file": "lectures/hardware/プロセッサの構成要素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "運用ルール"
+              "title": "プロセッサの構成要素"
             }
           },
           {
@@ -213,13 +213,14 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/hardware/命令・アドレッシング.md",
+    "operation/運用ルール.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/system_design/開発プロセス.md",
     "lectures/security/インターネット関連の法規.md",
     "lectures/hardware/五大装置.md",
     "lectures/hardware/プロセッサの構成要素.md",
-    "lectures/hardware/プロセッサの設計・高速化.md",
-    "lectures/hardware/命令・アドレッシング.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "terms/system_design/アジャイル開発.md",
@@ -237,7 +238,6 @@
     "lectures/system_design/共通フレーム.md",
     "lectures/security/インターネットの仕組み.md",
     "lectures/system_design/要件定義.md",
-    "operation/運用ルール.md",
     "operation/プロパティ入力候補一覧.md",
     "terms/system_design/スクラム.md",
     "スプリントレトロスペクティブ.md",
