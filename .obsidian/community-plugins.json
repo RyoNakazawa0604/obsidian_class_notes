@@ -6,5 +6,6 @@
   "obsidian-style-settings",
   "tag-wrangler",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "obsidian-local-rest-api"
 ]
