@@ -213,6 +213,7 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "desktop.ini",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/system_design/開発プロセス.md",
@@ -234,7 +235,6 @@
     "terms/IT_strategy_&_management/品質マネジメント.md",
     "templates/desktop.ini",
     "terms/IT_strategy_&_management/desktop.ini",
-    "desktop.ini",
     "terms/system_design/ウォーターフォールモデル.md",
     "terms/system_design/スパイラルモデル.md",
     "terms/system_design/プロトタイピングモデル.md",
@@ -243,7 +243,6 @@
     "スプリントレトロスペクティブ.md",
     "terms/system_design",
     "terms/IT_strategy_&_management",
-    "operation/復習ダッシュボード.md",
     "operation",
     "terms",
     "lectures",
