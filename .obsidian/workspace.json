@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/プロセッサの設計・高速化.md",
+                "file": "lectures/security/コンピュータウイルス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロセッサの設計・高速化"
+              "title": "コンピュータウイルス"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -213,9 +214,10 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/security/コンピュータウイルス.md",
     "desktop.ini",
     "lectures/hardware/プロセッサの構成要素.md",
-    "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/system_design/開発プロセス.md",
     "lectures/system_design/要件定義.md",
     "lectures/system_design/共通フレーム.md",
