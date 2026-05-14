@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -214,15 +213,17 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/security/インターネット関連の法規.md",
+    "lectures/security/インターネットの仕組み.md",
     "lectures/security/コンピュータウイルス.md",
+    "security/コンピュータウイルス.md",
+    "security",
+    "lectures/hardware/プロセッサの設計・高速化.md",
     "desktop.ini",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/system_design/開発プロセス.md",
     "lectures/system_design/要件定義.md",
     "lectures/system_design/共通フレーム.md",
-    "lectures/security/インターネットの仕組み.md",
-    "lectures/security/インターネット関連の法規.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
@@ -242,14 +243,12 @@
     "terms/system_design/プロトタイピングモデル.md",
     "operation/プロパティ入力候補一覧.md",
     "terms/system_design/スクラム.md",
-    "スプリントレトロスペクティブ.md",
     "terms/system_design",
     "terms/IT_strategy_&_management",
     "operation",
     "terms",
     "lectures",
     "無題のファイル.base",
-    "IT_strategy_&_management/desktop.ini",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
