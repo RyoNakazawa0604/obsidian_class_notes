@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/security/コンピュータウイルス.md",
+                "file": "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コンピュータウイルス"
+              "title": "プロジェクトマネジメント"
             }
           },
           {
@@ -214,10 +214,12 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/security/コンピュータウイルス.md",
+    "operation/運用ルール.md",
+    "security/コンピュータウイルス.md",
+    "terms/system_design/スプリントレトロスペクティブ.md",
     "lectures/security/インターネット関連の法規.md",
     "lectures/security/インターネットの仕組み.md",
-    "lectures/security/コンピュータウイルス.md",
-    "security/コンピュータウイルス.md",
     "security",
     "lectures/hardware/プロセッサの設計・高速化.md",
     "desktop.ini",
@@ -231,7 +233,6 @@
     "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/hardware/五大装置.md",
     "lectures/hardware/命令・アドレッシング.md",
-    "operation/運用ルール.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "terms/system_design/アジャイル開発.md",
@@ -243,7 +244,6 @@
     "terms/system_design/スパイラルモデル.md",
     "terms/system_design/プロトタイピングモデル.md",
     "operation/プロパティ入力候補一覧.md",
-    "terms/system_design/スクラム.md",
     "terms/system_design",
     "terms/IT_strategy_&_management",
     "operation",
