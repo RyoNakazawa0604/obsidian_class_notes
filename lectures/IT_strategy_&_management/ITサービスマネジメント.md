@@ -2,7 +2,7 @@
 date: 2026-05-14
 course: IT_strategy_&_management
 topic: サービスマネジメント
-lecture_no: 5
+lecture_no: 6
 period: "4"
 instructor: 土屋
 source: 授業
@@ -13,12 +13,20 @@ due:
 repo:
 tags:
   - 基本情報技術者試験
-  - qualification_test_5
+  - qualification_test_6
 aliases:
 ---
 
 ## 授業メモ
-
+## ITサービスマネジメント
+ITに関する導入・運用・保守サービスをどう提供するか
+##### サービスレベル合意（SLA）
+顧客とサービス提供者の間で取り決めたサービスレベルに関する合意書
+サービスレベルは定義、範囲、内容、達成目標など
+	顧客：「要望するサービス」してほしい！あれもこれも！
+	提供側：「現実的に無理！」
+	SLA：じゃあここまでなら「可能」「妥協」
+＊顧客の言葉で書く⇒認識の相違を防ぐため
 ## 授業で出た単語
 - 
 
