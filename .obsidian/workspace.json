@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/リスクマネジメント.md",
+                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "リスクマネジメント"
+              "title": "ITサービスマネジメント2"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -213,23 +214,24 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
+    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
-    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
     "lectures/hardware/主記憶装置.md",
     "lectures/hardware/命令・アドレッシング.md",
     "lectures/hardware/五大装置.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/hardware/プロセッサの構成要素.md",
     "templates/授業1回実運用テンプレ_90分.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント.md",
     "lectures/IT_strategy_&_management/添付ファイル",
     "lectures/system_design/開発プロセス.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/security/インターネット関連の法規.md",
     "lectures/security/インターネットの仕組み.md",
-    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "operation/運用ルール.md",
@@ -241,7 +243,6 @@
     "lectures/system_design/共通フレーム.md",
     "terms/system_design/アジャイル開発.md",
     "templates/template1.md",
-    "terms/IT_strategy_&_management/品質マネジメント.md",
     "templates/desktop.ini",
     "terms/IT_strategy_&_management/desktop.ini",
     "terms/system_design",
