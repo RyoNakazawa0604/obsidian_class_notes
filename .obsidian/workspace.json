@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
+                "file": "lectures/system_design/開発プロセス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITサービスマネジメント2"
+              "title": "開発プロセス"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -214,33 +213,33 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "desktop.ini",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
-    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
-    "lectures/IT_strategy_&_management/リスクマネジメント.md",
-    "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
-    "lectures/IT_strategy_&_management/タイムマネジメント.md",
-    "lectures/hardware/主記憶装置.md",
-    "lectures/hardware/命令・アドレッシング.md",
-    "lectures/hardware/五大装置.md",
-    "lectures/hardware/プロセッサの設計・高速化.md",
-    "lectures/hardware/プロセッサの構成要素.md",
-    "templates/授業1回実運用テンプレ_90分.md",
-    "lectures/IT_strategy_&_management/添付ファイル",
-    "lectures/system_design/開発プロセス.md",
+    "lectures/system_design/要件定義.md",
+    "lectures/system_design/共通フレーム.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
     "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/security/インターネット関連の法規.md",
     "lectures/security/インターネットの仕組み.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
+    "lectures/IT_strategy_&_management/タイムマネジメント.md",
+    "lectures/hardware/命令・アドレッシング.md",
+    "lectures/hardware/プロセッサの構成要素.md",
+    "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
+    "desktop.ini",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
+    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
+    "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
+    "lectures/hardware/主記憶装置.md",
+    "lectures/hardware/五大装置.md",
+    "templates/授業1回実運用テンプレ_90分.md",
+    "lectures/IT_strategy_&_management/添付ファイル",
+    "lectures/system_design/開発プロセス.md",
     "operation/運用ルール.md",
     "security/コンピュータウイルス.md",
     "terms/system_design/スプリントレトロスペクティブ.md",
     "security",
-    "lectures/system_design/要件定義.md",
-    "lectures/system_design/共通フレーム.md",
     "terms/system_design/アジャイル開発.md",
     "templates/template1.md",
     "templates/desktop.ini",
