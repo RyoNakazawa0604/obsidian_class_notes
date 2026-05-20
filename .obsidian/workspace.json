@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/プロセッサの構成要素.md",
+                "file": "lectures/hardware/命令・アドレッシング.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロセッサの構成要素"
+              "title": "命令・アドレッシング"
             }
           },
           {
@@ -213,6 +213,9 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
+    "desktop.ini",
+    "lectures/hardware/命令・アドレッシング.md",
     "lectures/hardware/主記憶装置.md",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
@@ -227,11 +230,8 @@
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
-    "lectures/hardware/命令・アドレッシング.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
-    "desktop.ini",
     "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
-    "lectures/IT_strategy_&_management/添付ファイル/download.gif",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/hardware/五大装置.md",
     "templates/授業1回実運用テンプレ_90分.md",
