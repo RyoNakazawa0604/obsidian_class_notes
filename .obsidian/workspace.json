@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/system_design/開発プロセス.md",
+                "file": "lectures/security/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "開発プロセス"
+              "title": "無題のファイル"
             }
           },
           {
@@ -213,6 +213,8 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/system_design/開発プロセス.md",
+    "lectures/security/無題のファイル.md",
     "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
@@ -222,7 +224,6 @@
     "lectures/hardware/主記憶装置.md",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
-    "lectures/system_design/開発プロセス.md",
     "lectures/system_design/要件定義.md",
     "lectures/system_design/共通フレーム.md",
     "lectures/system_design/開発プロセス（開発モデルとアジャイル）.md",
