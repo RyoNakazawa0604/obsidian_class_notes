@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
+                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITサービスマネジメント1"
+              "title": "ITサービスマネジメント3"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -214,6 +215,8 @@
   "active": "847f62e660373733",
   "lastOpenFiles": [
     "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
     "lectures/system_design/オブジェクト指向.md",
     "lectures/system_design/開発プロセス.md",
     "lectures/security/ネットワークの基礎.md",
@@ -233,7 +236,6 @@
     "lectures/security/インターネットの仕組み.md",
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/hardware/五大装置.md",
     "templates/授業1回実運用テンプレ_90分.md",
@@ -242,7 +244,6 @@
     "security/コンピュータウイルス.md",
     "terms/system_design/スプリントレトロスペクティブ.md",
     "security",
-    "terms/system_design/アジャイル開発.md",
     "templates/desktop.ini",
     "terms/IT_strategy_&_management/desktop.ini",
     "terms/system_design",
