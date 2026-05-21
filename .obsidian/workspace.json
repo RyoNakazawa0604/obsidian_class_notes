@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/system_design/無題のファイル.md",
+                "file": "lectures/system_design/オブジェクト指向.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "オブジェクト指向"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -213,10 +214,10 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/security/ネットワークの基礎.md",
-    "lectures/system_design/無題のファイル.md",
-    "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/system_design/開発プロセス.md",
+    "lectures/system_design/オブジェクト指向.md",
+    "lectures/security/ネットワークの基礎.md",
+    "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/hardware/命令・アドレッシング.md",
