@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/監査1.md",
+                "file": "lectures/hardware/主記憶装置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "監査1"
+              "title": "主記憶装置"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9978d39e32fc8e31",
@@ -214,10 +213,11 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
-    "lectures/IT_strategy_&_management/監査1.md",
-    "lectures/hardware/主記憶装置と高速化技法.md",
+    "lectures/hardware/命令・アドレッシング.md",
     "lectures/hardware/主記憶装置.md",
+    "lectures/hardware/主記憶装置と高速化技法.md",
+    "lectures/IT_strategy_&_management/監査1.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
     "desktop.ini",
     "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
@@ -227,7 +227,6 @@
     "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
-    "lectures/hardware/命令・アドレッシング.md",
     "lectures/IT_strategy_&_management/添付ファイル/download.gif",
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
