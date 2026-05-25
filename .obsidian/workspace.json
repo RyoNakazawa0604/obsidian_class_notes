@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/主記憶装置と高速化技法.md",
+                "file": "lectures/IT_strategy_&_management/監査1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主記憶装置と高速化技法"
+              "title": "監査1"
             }
           },
           {
@@ -214,9 +214,10 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/hardware/主記憶装置.md",
-    "lectures/hardware/主記憶装置と高速化技法.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
+    "lectures/IT_strategy_&_management/監査1.md",
+    "lectures/hardware/主記憶装置と高速化技法.md",
+    "lectures/hardware/主記憶装置.md",
     "desktop.ini",
     "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
@@ -242,7 +243,6 @@
     "templates/授業1回実運用テンプレ_90分.md",
     "lectures/IT_strategy_&_management/添付ファイル",
     "operation/運用ルール.md",
-    "security/コンピュータウイルス.md",
     "security",
     "templates/desktop.ini",
     "terms/IT_strategy_&_management/desktop.ini",
