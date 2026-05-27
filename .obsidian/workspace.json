@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
+                "file": "lectures/security/ネットワークの基礎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ITサービスマネジメント3"
+              "title": "ネットワークの基礎"
             }
           },
           {
@@ -213,8 +213,8 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
     "lectures/hardware/主記憶装置と高速化技法.md",
     "lectures/hardware/主記憶装置.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
