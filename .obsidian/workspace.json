@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/hardware/主記憶装置.md",
+                "file": "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主記憶装置"
+              "title": "ITサービスマネジメント3"
             }
           },
           {
@@ -213,13 +213,13 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/system_design/オブジェクト指向.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
-    "lectures/IT_strategy_&_management/リスクマネジメント.md",
-    "lectures/hardware/主記憶装置.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
     "lectures/hardware/主記憶装置と高速化技法.md",
+    "lectures/hardware/主記憶装置.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
+    "lectures/system_design/オブジェクト指向.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/hardware/命令・アドレッシング.md",
     "lectures/desktop.ini",
     "desktop.ini",
