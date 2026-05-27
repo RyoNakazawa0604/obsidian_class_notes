@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
+                "file": "lectures/hardware/主記憶装置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コンピュータウイルス・インターネットセキュリティ"
+              "title": "主記憶装置"
             }
           },
           {
@@ -213,23 +213,24 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/system_design/オブジェクト指向.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
+    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
+    "lectures/IT_strategy_&_management/リスクマネジメント.md",
+    "lectures/hardware/主記憶装置.md",
+    "lectures/hardware/主記憶装置と高速化技法.md",
+    "lectures/hardware/命令・アドレッシング.md",
+    "lectures/desktop.ini",
+    "desktop.ini",
+    "lectures/security/ネットワークの基礎.md",
+    "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
     "lectures/security/インターネットの仕組み.md",
     "lectures/hardware/五大装置.md",
     "lectures/hardware/プロセッサの設計・高速化.md",
     "lectures/hardware/プロセッサの構成要素.md",
-    "lectures/hardware/命令・アドレッシング.md",
-    "lectures/hardware/主記憶装置.md",
-    "lectures/hardware/主記憶装置と高速化技法.md",
     "lectures/IT_strategy_&_management/監査1.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
-    "desktop.ini",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント2.md",
-    "lectures/IT_strategy_&_management/ITサービスマネジメント1.md",
-    "lectures/system_design/オブジェクト指向.md",
     "lectures/system_design/開発プロセス.md",
-    "lectures/security/ネットワークの基礎.md",
-    "lectures/security/コンピュータウイルス・インターネットセキュリティ.md",
-    "lectures/IT_strategy_&_management/リスクマネジメント.md",
     "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/添付ファイル/download.gif",
     "lectures/system_design/要件定義.md",
@@ -241,7 +242,6 @@
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "templates/授業1回実運用テンプレ_90分.md",
     "lectures/IT_strategy_&_management/添付ファイル",
-    "operation/運用ルール.md",
     "security",
     "templates/desktop.ini",
     "terms/IT_strategy_&_management/desktop.ini",
@@ -249,7 +249,6 @@
     "terms/IT_strategy_&_management",
     "operation",
     "terms",
-    "lectures",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas"
