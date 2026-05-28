@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/system_design/UML.md",
+                "file": "lectures/IT_strategy_&_management/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML"
+              "title": "無題のファイル"
             }
           },
           {
@@ -213,8 +213,9 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/hardware/命令・アドレッシング.md",
     "lectures/system_design/UML.md",
+    "lectures/IT_strategy_&_management/無題のファイル.md",
+    "lectures/hardware/命令・アドレッシング.md",
     "lectures/system_design/オブジェクト指向.md",
     "lectures/security/ネットワークの基礎.md",
     "lectures/IT_strategy_&_management/ITサービスマネジメント3.md",
@@ -241,7 +242,6 @@
     "lectures/IT_strategy_&_management/人的資源マネジメント.md",
     "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
-    "templates/授業1回実運用テンプレ_90分.md",
     "lectures/IT_strategy_&_management/添付ファイル",
     "security",
     "templates/desktop.ini",
