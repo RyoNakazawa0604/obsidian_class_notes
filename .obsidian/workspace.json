@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/IT_strategy_&_management/タイムマネジメント.md",
+                "file": "lectures/IT_strategy_&_management/品質マネジメント.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "タイムマネジメント"
+              "title": "品質マネジメント"
             }
           },
           {
@@ -213,6 +213,8 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
+    "lectures/IT_strategy_&_management/人的資源マネジメント.md",
+    "lectures/IT_strategy_&_management/タイムマネジメント.md",
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/IT_strategy_&_management/エンタープライズアーキテクチャ.md",
     "lectures/system_design/ソフトウェア要件定義と図式.md",
@@ -239,9 +241,7 @@
     "lectures/hardware/プロセッサの構成要素.md",
     "lectures/IT_strategy_&_management/監査1.md",
     "lectures/system_design/開発プロセス.md",
-    "lectures/IT_strategy_&_management/品質マネジメント.md",
     "lectures/IT_strategy_&_management/添付ファイル/download.gif",
-    "lectures/system_design/要件定義.md",
     "lectures/IT_strategy_&_management/添付ファイル",
     "security",
     "templates/desktop.ini",
