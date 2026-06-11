@@ -44,6 +44,11 @@ IPv6は128bitのアドレス範囲
 #### IPの活用
 1. **ルーティング**
 	ルータの機能でパケットの宛先のIPアドレスを確認して適切なネットワークに送る機能をルーティングと呼ぶ
+2. **NAT(Network Address Translation)**
+	1つのグローバルIPに1つのプライベートIPを割り当てる
+3. **NAPT(Network Address Port Translation)**
+	1つのグローバルIPを複数のプライベートIPを割り当てる
+	≒IPマスカレード
 ## 授業で出た単語
 - 
 
