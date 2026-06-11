@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/security/IPアドレスの基本.md",
+                "file": "lectures/hardware/命令・アドレッシング.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPアドレスの基本"
+              "title": "命令・アドレッシング"
             }
           },
           {
@@ -213,8 +213,12 @@
   },
   "active": "847f62e660373733",
   "lastOpenFiles": [
-    "lectures/security/ネットワーク機器.md",
+    "lectures/hardware/プロセッサの設計・高速化.md",
+    "lectures/hardware/プロセッサの構成要素.md",
+    "lectures/hardware/五大装置.md",
+    "lectures/hardware/主記憶装置.md",
     "lectures/security/IPアドレスの基本.md",
+    "lectures/security/ネットワーク機器.md",
     "lectures/system_design/ソフトウェア要件定義と図式.md",
     "lectures/system_design/UML.md",
     "lectures/system_design/オブジェクト指向.md",
@@ -235,10 +239,6 @@
     "lectures/IT_strategy_&_management/プロジェクトマネジメント.md",
     "lectures/security/様々なインターネットプロトコル.md",
     "lectures/hardware/補助記憶装置.md",
-    "lectures/hardware/主記憶装置と高速化技法.md",
-    "lectures/hardware/主記憶装置.md",
-    "lectures/hardware/命令・アドレッシング.md",
-    "lectures/security/ネットワークの基礎.md",
     "lectures/desktop.ini",
     "desktop.ini",
     "lectures/IT_strategy_&_management/添付ファイル/download.gif",
